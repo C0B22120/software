@@ -1,5 +1,5 @@
 import java.time.LocalDateTime;
-
+//test
 class PurchasePointPayment {
   final CustomerId customerId;          // 購入者のID
   final ComicId comicId;                // 購入するWebコミックのID
